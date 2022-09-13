@@ -32,3 +32,14 @@ social:
     link: https://space.bilibili.com/513449298
     icon: ri:bilibili-line
     color: '#FF8EB3'
+
+banner:
+  enable: true
+  title: 岚小路的小站
+  border: true
+  cloud:
+    enable: true
+    color: white
+  go_down:
+    enable: true
+    icon: ri:arrow-down-s-line

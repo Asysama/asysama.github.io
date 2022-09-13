@@ -3,13 +3,25 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 岚小路的小站
+subtitle: Arashikoji
+description: 早上中午晚上好
 keywords:
-author: John Doe
-language: en
-timezone: ''
+  - Arashikoji
+  - 博客
+  - 小站
+  - Asy
+  - Asysama
+  - Asyopic
+  - Asyophia
+  - Asyophia晞
+  - 岚小路
+  - Arashikoji
+  - 岚小路的小站
+  - asysama.github.io
+author: Asysama
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
