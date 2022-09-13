@@ -1,23 +1,23 @@
-# Hexo Configuration
+ï»¿# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: á°Ğ¡Â·µÄĞ¡Õ¾
+title: å²šå°è·¯çš„å°ç«™
 subtitle: Arashikoji
-description: ÔçÉÏÖĞÎçÍíÉÏºÃ
+description: æ—©ä¸Šä¸­åˆæ™šä¸Šå¥½
 keywords:
   - Arashikoji
-  - ²©¿Í
-  - Ğ¡Õ¾
+  - åšå®¢
+  - å°ç«™
   - Asy
   - Asysama
   - Asyopic
   - Asyophia
-  - Asyophia•„
-  - á°Ğ¡Â·
+  - Asyophiaæ™
+  - å²šå°è·¯
   - Arashikoji
-  - á°Ğ¡Â·µÄĞ¡Õ¾
+  - å²šå°è·¯çš„å°ç«™
   - asysama.github.io
 author: Asysama
 language: zh-CN
