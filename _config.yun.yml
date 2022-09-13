@@ -2,3 +2,33 @@ avatar:
   url: https://files.imgdb.cn/static/images/cb/98/631ecaae16f2c2beb121cb98.jpg
   rounded: true
   opacity: 1
+
+social:
+  - name: GitHub
+    link: https://github.com/Asysama
+    icon: ri:github-line
+    color: '#181717'
+  - name: E-Mail
+    link: mailto:1820090402@qq.com
+    icon: ri:mail-line
+    color: '#8E71C1'
+  - name: Œ¢≤©
+    link: https://weibo.com/u/7360841605
+    icon: ri:weibo-line
+    color: '#E6162D'
+  - name: ∂π∞Í
+    link: https://www.douban.com/people/219011457
+    icon: ri:douban-line
+    color: '#007722'
+  - name: Õ¯“◊‘∆“Ù¿÷
+    link: https://music.163.com/#/user/home?id=1901649037
+    icon: ri:netease-cloud-music-line
+    color: '#C10D0C'
+  - name: ÷™∫ı
+    link: https://www.zhihu.com/people/asyopic
+    icon: ri:zhihu-line
+    color: '#0084FF'
+  - name: ﬂŸ¡®ﬂŸ¡®∂Øª≠
+    link: https://space.bilibili.com/513449298
+    icon: ri:bilibili-line
+    color: '#FF8EB3'
