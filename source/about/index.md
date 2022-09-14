@@ -15,6 +15,7 @@ comments: true
 
 ### [Bilibili](https://space.bilibili.com/513449298)|[Weibo](https://weibo.com/u/7360841605)|[NetEase](https://music.163.com/#/user/home?id=1901649037)|[Zhihu](https://www.zhihu.com/people/asyopic)|[Luogu](https://www.luogu.com.cn/user/349498)
 
+You can also call me Arashikoji(岚小路).
 - 🎓 Student from [SFLS](https://www.sfls.net.cn). Like all interesting things and realize it.
 
 - 🎯 Like playing SIM such as ***Cities: Skylines** / Cooking Simulator / Planet Coaster*
