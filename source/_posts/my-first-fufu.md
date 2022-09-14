@@ -12,7 +12,7 @@ categories:
 ---
 
 > fufu:我来你家吃大米啦——
-
+<img src="https://pic.imgdb.cn/item/63217f0c16f2c2beb1a224ec.png" width="60%">
 ## 序章
 都市一角，我无聊的打开会员购，一只fufu在屏幕中与我相望
 <!-- more -->
