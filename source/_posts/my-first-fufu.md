@@ -9,6 +9,7 @@ tags:
   - Vocaloid
 categories:
   - 日常生活
+comments: true
 ---
 
 > fufu:我来你家吃大米啦——

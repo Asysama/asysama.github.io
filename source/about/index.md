@@ -4,6 +4,7 @@ title: 关于我
 
 date: 2022-09-14 08:45:02
 
+comments: true
 ---
 
 ## Hi there, I'm [Asysama](https://asysama.github.io) 👋
