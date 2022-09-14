@@ -90,6 +90,3 @@ comment:
   candidates:
     - waline
     - utterances
-
-wordcloud:
-  enable: true
