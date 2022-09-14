@@ -66,5 +66,5 @@ pages:
     color: dodgerblue
   - name: 我的相册
     url: /albums
-    icon: ri:image-fill
+    icon: ri:image-line
     color: '#007722'
