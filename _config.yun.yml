@@ -55,3 +55,16 @@ banner:
   go_down:
     enable: true
     icon: ri:arrow-down-s-line
+
+albums:
+  enable: true
+
+pages:
+  - name: 我的小伙伴们
+    url: /links
+    icon: ri:genderless-line
+    color: dodgerblue
+  - name: 我的相册
+    url: /albums
+    icon: ri:image-fill
+    color: '#007722'
