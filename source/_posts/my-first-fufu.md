@@ -13,14 +13,14 @@ categories:
 
 > fufu:我来你家吃大米啦——
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=22677533&auto=0&height=66"></iframe>
-
 ## 序章
-都市一角，我无聊的打开会员购，一只fufu在屏幕中与我相望，
-下方用醒目的红字标上￥99的字样，那一刻，fufu与我仿佛很近但却很远。
-手指移到购买上，然后按了下去...按下了左边的购物车！
+都市一角，我无聊的打开会员购，一只fufu在屏幕中与我相望
+<!-- more -->
+下方用醒目的红字标上￥99的字样，那一刻，fufu与我触手可及却又遥不可及。
+手指移到购买上，然后按了下去...按下了左边的添加购物车！
 > 你还真是一点都没变啊！还是什么都做不到啊！
 明明...明明这次再版这么不易，却还是舍不得付定金啊！
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=22677533&auto=0&height=66"></iframe>
 
 ## 为美好的定金献上祝福！
 一周后，辗转反复的我，最终还是选择屈服于￥99的面前，支付了定金。

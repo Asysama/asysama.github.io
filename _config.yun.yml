@@ -83,3 +83,14 @@ reward:
       path: https://pic.imgdb.cn/item/6321653a16f2c2beb1856c59.png
       color: '#2DC100'
       icon: ri:wechat-pay-line
+
+notice:
+  enable: true
+  content: Asysama的小站
+
+comment:
+  enable: true
+  tips:
+  candidates:
+    - waline
+    - utterances
