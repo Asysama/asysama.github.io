@@ -68,3 +68,18 @@ pages:
     url: /albums
     icon: ri:image-line
     color: '#007722'
+
+menu:
+  custom:
+    title: 留言板
+    path: /about/#comment
+    icon: ri:clipboard-line
+
+reward:
+  enable: true
+  comment: 我很可爱，请给我钱
+  methods:
+    - name: 微信支付
+      path: https://pic.imgdb.cn/item/6321653a16f2c2beb1856c59.png
+      color: '#2DC100'
+      icon: ri:wechat-pay-line
