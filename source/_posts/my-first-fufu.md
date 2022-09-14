@@ -23,10 +23,11 @@ categories:
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=22677533&auto=0&height=66"></iframe>
 
 ## 为美好的定金献上祝福！
-### 我
-一周后，我下定决心，
+### 欢迎来到定金至上的会员购
+一周后，我下定决心，为了防止再版和上次一样售罄
 最终选择屈服于￥99的面前，支付了定金。
 <img src="https://pic.imgdb.cn/item/63213f7616f2c2beb15f05d5.png" width="60%">
+要知道，一旦付了定金，可就不能反悔了，<span class="heimu" title="你知道的太多了">要带着必死的决心</span>(bushi
 
 ### 商品延期是否搞错了什么
 但就在一个月后，会员购又发了一条私信......
@@ -47,4 +48,4 @@ categories:
 最终需要支付......69.15元！
 > 都到这种时候了，绝对不能放弃！
 
-支付了尾款，坐在家中等待fufu<span class="heimu" title="你知道的太多了">来我家吃大米</span>
+支付了尾款，坐在家中等待fufu<span class="heimu" title="你知道的太多了">来我家吃大米</span>(确信
