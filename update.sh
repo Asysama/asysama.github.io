@@ -1,7 +1,5 @@
-info=$1
-if ["$info" = ""];
-then info=":pencil: update content"
-fi
+hexo clean
+hexo d -g
 git add -A
-git commit -m "$info"
+git commit -m 'update hexo backup'
 git push origin hexo
